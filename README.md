@@ -1,4 +1,4 @@
-# calculadora_imc
+# Calculadora imc
 
 A new Flutter application.
 
